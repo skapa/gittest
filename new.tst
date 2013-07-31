@@ -1,4 +1,3 @@
 asdf
 same dnove veci
-
-a este nieco
+takze TOTO je nove!!!
